@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "esNext",
+    "target": "es5",
+    "moduleResolution": "node",
+    "strict": true,
+    "alwaysStrict": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": true
+  }
+}

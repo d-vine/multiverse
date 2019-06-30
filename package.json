@@ -1,0 +1,29 @@
+{
+  "name": "multiverse",
+  "version": "0.0.0",
+  "description": "",
+  "main": "multiverse.js",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:dvine-multimedia/multiverse.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Georg Goettlich",
+    "email": "mail@dvine.de"
+  },
+  "engine": {
+    "node": ">=8"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@babylonjs/core": "^4.0.3",
+    "@babylonjs/materials": "^4.0.3",
+    "parcel-bundler": "^1.12.3",
+    "typescript": "^3.5.2"
+  }
+}
